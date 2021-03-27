@@ -1,0 +1,89 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movie", &Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary", CGTN Documentary
+http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
+#EXTINF: -1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary", RT Documentary (720p)
+https://rt-doc-gd.secure2.footprint.net/1101.m3u8
+#EXTINF: -1 tvg-id="92News.pk" tvg-name="92 News" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News", 92 News (720p)
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF: -1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News", Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF: -1 tvg-id="ABCNews.us" tvg-name="ABC News" group-title="News", ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF: -1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News", Al Jazeera English (1080p)
+https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
+#EXTINF: -1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News", Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF: -1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News", BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF: -1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News", BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF: -1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News", BBC World News(英国)
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF: -1 tvg-id="BloombergMeiGuo.us" tvg-name="Bloomberg(美国)" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="News", Bloomberg(美国)
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF: -1 tvg-id="Brut.us" tvg-name="Brut." tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="News", Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF: -1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="News", CNN (720p)
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF: -1 tvg-id="DWEnglish.de" tvg-name="DW English" group-title="News", DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF: -1 tvg-id="FoxNews.us" tvg-name="Fox News" group-title="News", Fox News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF: -1 tvg-id="PalestineToday.ps" tvg-name="Palestine Today" tvg-logo="https://paltoday.tv/style/assets/images/logo.png" group-title="News", Palestine Today (480p)
+https://live.paltoday.tv/paltv/live/playlist.m3u8
+#EXTINF: -1 tvg-id="RTAmerica.ru" tvg-name="RT America" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="News", RT America (480p)
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF: -1 tvg-id="RTAmerica.ru" tvg-name="RT America" tvg-logo="https://i.imgur.com/Du5rsc8.png" group-title="News", RT America (720p)
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF: -1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News", Sky News (720p)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF: -1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News", TRT World (1080p)
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF: -1 tvg-id="IndiaTVNews.in" tvg-name="India TV News" group-title="News", India TV News (480p)
+https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
+#EXTINF: -1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" group-title="News", NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF: -1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="Cooking", Chef Champion (720p)
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
+#EXTINF: -1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" tvg-logo="https://i.imgur.com/tn9bRD1.jpg" group-title="Cooking", Chef Roc Show (720p)
+https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
+#EXTINF: -1 tvg-id="PlantBasedNetworkHD.us" tvg-name="Plant-Based Network HD" tvg-logo="https://i.imgur.com/iwd9Jxb.png" group-title="Cooking", Plant-Based Network HD
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
+#EXTINF: -1 tvg-id="STIRRCooks.us" tvg-name="STIRR Cooks" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Cooking", STIRR Cooks (720p)
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
+#EXTINF: -1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Cooking", Tastemade (1080p)
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF: -1 tvg-id="TheOutdoorCookingChannel.us" tvg-name="The Outdoor Cooking Channel" tvg-logo="https://i.imgur.com/PnBXXw4.png" group-title="Cooking", The Outdoor Cooking Channel (480p)
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
+#EXTINF: -1 tvg-id="Brut.us" tvg-name="Brut." tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="Travel&LifeStyle", Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF: -1 tvg-id="AtlantaChannel.us" tvg-name="Atlanta Channel" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Travel&LifeStyle", Atlanta Channel (720p)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF: -1 tvg-id="BamBarBiaTV.ua" tvg-name="BamBarBia TV" tvg-logo="https://i.imgur.com/LIk85IA.png" group-title="Travel&LifeStyle", BamBarBia TV (1080p)
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF: -1 tvg-id="BamBarBiaTV.ua" tvg-name="BamBarBia TV" tvg-logo="https://i.imgur.com/LIk85IA.png" group-title="Travel&LifeStyle", BamBarBia TV (1080p)
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF: -1 tvg-id="JascoEventsTV.sa" tvg-name="Jasco Events TV" group-title="Travel&LifeStyle", Jasco Events TV
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF: -1 tvg-id="RussianTravelGuide.ru" tvg-name="Russian Travel Guide" tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="Travel&LifeStyle", Russian Travel Guide (480p)
+http://ott-cdn.ucom.am/s80/index.m3u8
+#EXTINF: -1 tvg-id="RussianTravelGuideHD.ru" tvg-name="Russian Travel Guide HD" tvg-logo="https://i.imgur.com/NymtU1E.png" group-title="Travel&LifeStyle", Russian Travel Guide HD (480p)
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF: -1 tvg-id="STIRRTravel.us" tvg-name="STIRR Travel" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Travel&LifeStyle", STIRR Travel (720p)
+https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
+#EXTINF: -1 tvg-id="TravelGuideTV.ua" tvg-name="Travel Guide TV" group-title="Travel&LifeStyle", Travel Guide TV (720p)
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF: -1 tvg-id="Travel TV BG" tvg-name="Travel TV BG" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="Travel&LifeStyle", Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="TunisieImmobilierTV.tn" tvg-name="Tunisie Immobilier TV" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Travel&LifeStyle", Tunisie Immobilier TV (720p)
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
+#EXTINF: -1 tvg-id="TVParanaTurismo.br" tvg-name="TV Paraná Turismo" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Travel&LifeStyle", TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF: -1 tvg-id="TVSTravelNetwork.us" tvg-name="TVS Travel Network" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="Travel&LifeStyle", TVS Travel Network (720p)
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF: -1 tvg-id="NashaSibir.ru" tvg-name="Наша Сибирь" tvg-logo="https://iptvx.one/icn/nasha-sibir.png" group-title="Travel&LifeStyle", Наша Сибирь (1080p)
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF: -1 tvg-id="YaLuWeiShi.hk" tvg-name="亞旅衛視" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" group-title="Travel&LifeStyle", 亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
