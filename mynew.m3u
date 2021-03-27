@@ -5,6 +5,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
 #EXTINF: -1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary", RT Documentary (720p)
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
+#EXTINF: -1 tvg-name="Popular Science TV" tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="Documentary", Popular Science TV
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF: -1 tvg-name="Popular Science TV" tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="Documentary", Popular Science TV
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF: -1 tvg-name="RT America US" tvg-logo="https://i.imgur.com/RqKVFRz.png" group-title="Documentary", RT America US
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF: -1 tvg-name="Samsung Wildlife" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="Documentary", Samsung Wildlife
+https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 #EXTINF: -1 tvg-id="92News.pk" tvg-name="92 News" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News", 92 News (720p)
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF: -1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News", Aaj Tak (720p)
@@ -45,6 +53,14 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
 #EXTINF: -1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" group-title="News", NDTV India (480p)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF: -1 tvg-id="Voice of America" tvg-name="Voice of America" tvg-logo="https://i.imgur.com/ieoPf2G.png" group-title="News", Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF: -1 tvg-name="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" group-title="News", ANN News
+plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
+#EXTINF: -1 tvg-id="Euronews.au" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="News", EURONEWS
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-name="PBS Kids (EST)" tvg-logo="https://i.imgur.com/hkZntiL.png" group-title="Kids", PBS Kids (EST)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF: -1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="Cooking", Chef Champion (720p)
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 #EXTINF: -1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" tvg-logo="https://i.imgur.com/tn9bRD1.jpg" group-title="Cooking", Chef Roc Show (720p)
@@ -57,6 +73,8 @@ https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF: -1 tvg-id="TheOutdoorCookingChannel.us" tvg-name="The Outdoor Cooking Channel" tvg-logo="https://i.imgur.com/PnBXXw4.png" group-title="Cooking", The Outdoor Cooking Channel (480p)
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
+#EXTINF: -1 tvg-id="Z Living" tvg-name="Z Living" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Cooking", Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF: -1 tvg-id="Brut.us" tvg-name="Brut." tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="Travel&LifeStyle", Brut.
 https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
 #EXTINF: -1 tvg-id="AtlantaChannel.us" tvg-name="Atlanta Channel" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Travel&LifeStyle", Atlanta Channel (720p)
@@ -87,3 +105,9 @@ https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF: -1 tvg-id="YaLuWeiShi.hk" tvg-name="亞旅衛視" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" group-title="Travel&LifeStyle", 亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF: -1 tvg-name="Hong Kong Open TV" tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="Travel&LifeStyle", Hong Kong Open TV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF: -1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Travel&LifeStyle", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Travel&LifeStyle", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
