@@ -1277,3 +1277,107 @@ http://ftv.fiberish.net.pk/live/myuser/1234/882.ts
 http://ftv.fiberish.net.pk/live/myuser/1234/883.ts
 #EXTINF: -1 group-title="Ungrouped", BIGG BOSS CAMERA 2
 http://ftv.fiberish.net.pk/live/myuser/1234/884.ts
+#EXTINF:-1 group-title="TempList",24 News HD (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
+#EXTINF:-1 group-title="TempList",92 News HD (720p)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 group-title="TempList",Bol News (1080p)
+https://ythls.armelin.one/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8
+#EXTINF:-1 group-title="TempList",City News HD (1080p)
+http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
+#EXTINF:-1 group-title="TempList",Dawn News (720p)
+https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
+#EXTINF:-1 group-title="TempList",Dunya News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8
+#EXTINF:-1 group-title="TempList",Express News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8
+#EXTINF:-1 group-title="TempList",Geo News (576p)
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TempList",GNN HD (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8
+#EXTINF:-1 group-title="TempList",Hum News (720p)
+https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
+#EXTINF:-1 group-title="TempList",Lahore News (720p) [Not 24/7]
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 group-title="TempList",Metro1 News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC95lddVg_04jAevVGYknx_w.m3u8
+#EXTINF:-1 group-title="TempList",News One (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCjHWKUbljF4hp3s5PbgK9uA.m3u8
+#EXTINF:-1 group-title="TempList",PNN News (720p)
+https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
+#EXTINF:-1 group-title="TempList",PTV News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
+#EXTINF:-1 group-title="TempList",Public News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8
+#EXTINF:-1 group-title="TempList",Roze News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8
+#EXTINF:-1 group-title="TempList",Such TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8
+#EXTINF:-1 group-title="TempList",Suno News HD (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCB82Zom1MYh8VV4q7wXkfGA.m3u8
+#EXTINF:-1 group-title="TempList",Time News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCnXxxqVgw9ttLiozpVPjHuw.m3u8
+#EXTINF:-1 group-title="TempList",Voice News (720p)
+https://cdn.bmstudiopk.com/vop/live/playlist.m3u8
+#EXTINF:-1 group-title="TempList",Awaz TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8
+#EXTINF:-1 group-title="TempList",Capital TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC-an6pHQfTVZXgrLP0p1EGA.m3u8
+#EXTINF:-1 group-title="TempList",City 41 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8
+#EXTINF:-1 group-title="TempList",City 42 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8
+#EXTINF:-1 group-title="TempList",Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 group-title="TempList",Fazal TV (1080p)
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 group-title="TempList",Gawahi TV (720p)
+https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
+#EXTINF:-1 group-title="TempList",Geo Kahani (360p)
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TempList",Geo Tez (576p)
+https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TempList",GTV Network (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC6XLG5YjZfK1p5oY5MJ3NMw.m3u8
+#EXTINF:-1 group-title="TempList",HK TV (720p)
+https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8
+#EXTINF:-1 group-title="TempList",PTV Bolan (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKMXh66UdpueUyQLQIqZSyg.m3u8
+#EXTINF:-1 group-title="TempList",PTV Home (1080p)
+https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
+#EXTINF:-1 group-title="TempList",PTV World (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
+#EXTINF:-1 group-title="TempList",Rohi (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCHlCp7kL8jC9HJrSVJuNJzA.m3u8
+#EXTINF:-1 group-title="TempList",Samaa TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8
+#EXTINF:-1 group-title="TempList",Zindagi TV (576p) [Not 24/7]
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTINF:-1 group-title="Religious",ABN Urdu (540p)
+https://rtmp2.abnvideos.com/hls/abnurdu.m3u8
+#EXTINF:-1 group-title="Religious",Al Ehsaan TV (720p)
+https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Grace Network (720p)
+https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Madani Channel Urdu (720p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 group-title="Religious",Minhaj TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCmwpLGkHfebwBaZbwcX3wWQ.m3u8
+#EXTINF:-1 group-title="General",aurLife HD (614p)
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 group-title="General",Faiz TV Network (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCB6hqQBHK-gToq0vKEQU7UQ.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="Business", like Gecko) Chrome/91.0.4472.124 Safari/537.36",CNBC Asia (720p)
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Express Entertainment (1080p)
+https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Education;Religious",Paigham TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCi-vOBG7Jgk_nKAG1Zd0R5g.m3u8
+#EXTINF:-1 group-title="Science",Smithsonian Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
